@@ -1,7 +1,7 @@
 # Superhero Performance & Publisher Insights Dashboard
 
 ## Overview
-This project analyzes superhero data across different publishers (Marvel, DC, Image) to uncover insights into power stats, alignment, and character distribution.
+This project analyzes superhero data across different publishers (Marvel, DC, Image, and others) to uncover insights into power stats, alignment, and character distribution.
 
 ## Tools Used
 - Python (Data Scraping & Cleaning)
